@@ -2,8 +2,7 @@
 
 1. 해당 JSP 게시판 웹페이지는 인프런 무료강의
 <br> https://www.inflearn.com/course/jsp-%EA%B2%8C%EC%8B%9C%ED%8C%90/dashboard
-<br> (누구나 따라하면서 배우는 JSP 커뮤니티 게시판 만들기)
-<br> 를 따라가며 만든 웹페이지 입니다.
+<br> (누구나 따라하면서 배우는 JSP 커뮤니티 게시판 만들기)를 따라가며 만든 웹페이지 입니다.
 2. 해당 강의는 인프런 뿐만 아니라 유튜브에서도 시청이 가능하며 해당 주소는
 <br> https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw (유튜브 동빈나)에서 확인할 수 있습니다.
 3. 회사에 실습나오게 되면서 DB, Spring, JSP 등 백엔드에 관해 공부가 필요하다고 느끼고 첫 강의로 시작하게 되었습니다.
